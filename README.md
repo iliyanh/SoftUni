@@ -36,7 +36,7 @@ This repository serves as a portfolio of the projects and assignments I've under
    1. Problem 1 : Write a function that prints the text "Hello SoftUni" in English.  => [Solution]((https://github.com/iliyanh/SoftUni/blob/main/JS%20Basics/First%20Steps%20In%20Coding%20-%20Lab/Hello.js))
   
    
-   2. Problem 2 : Write a function that prints the numbers from 1 to 10 on separate lines in the console.  => [Solution]([[course-link/problem1-solution.js](https://github.com/iliyanh/SoftUni/blob/main/JS%20Basics/First%20Steps%20In%20Coding%20-%20Lab/Hello.js](https://github.com/iliyanh/SoftUni/blob/main/JS%20Basics/First%20Steps%20In%20Coding%20-%20Lab/printNumbers1to10.js)))
+   2. Problem 2 : Write a function that prints the numbers from 1 to 10 on separate lines in the console.  => [Solution]([[course-link/problem1-solution.js](https://github.com/iliyanh/SoftUni/blob/main/JS%20Basics/First%20Steps%20In%20Coding%20-%20Lab/printNumbers1to10.js])
   
    
    3. Problem 3 : Write a function that takes an integer as input, calculates the area of a square with the given side length, and returns the result.  => [Solution]([[course-link/problem1-solution.js](https://github.com/iliyanh/SoftUni/blob/main/JS%20Basics/First%20Steps%20In%20Coding%20-%20Lab/Hello.js](https://github.com/iliyanh/SoftUni/blob/main/JS%20Basics/First%20Steps%20In%20Coding%20-%20Lab/squareArea.js)))
