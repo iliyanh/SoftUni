@@ -2,7 +2,7 @@
 
 Welcome to my SoftUni homework repository! This repository contains the assignments and projects I've completed during my time at SoftUni. It showcases my learning journey and practical coding skills.
 
-## Table of Contents
+# Table of Contents
 
 - [Description](#description)
 - [Courses](#courses)
@@ -16,22 +16,22 @@ Welcome to my SoftUni homework repository! This repository contains the assignme
 
 
 
-## Description
+# Description
 
 
 This repository serves as a portfolio of the projects and assignments I've undertaken as part of my studies at SoftUni. Each folder corresponds to a different course or module, containing the associated materials and code.
 
 
 
-## Courses
-[Solution]([https://github.com/iliyanh/SoftUni/blob/main/JS%20Basics/First%20Steps%20In%20Coding%20-%20Lab/Hello.js](https://github.com/iliyanh/SoftUni/blob/main/JS%20Basics/First%20Steps%20In%20Coding%20-%20Lab/yardgreen.js))
+# Courses
 
-### JavaScript Basics
 
-- **Lesson 1: First Steps In Coding - Lab**
+## JavaScript Basics
+
+ ### Lesson 1: First Steps In Coding - Lab
 
    
-    In this lab, we'll cover the following problems:
+   In this lab, we'll cover the following problems:
    
    1. **Problem 1** : Write a function that prints the text "Hello SoftUni" in English.  =>  [Solution](https://github.com/iliyanh/SoftUni/blob/main/JS%20Basics/First%20Steps%20In%20Coding%20-%20Lab/Hello.js)
   
@@ -62,184 +62,234 @@ This repository serves as a portfolio of the projects and assignments I've under
           Write a program that calculates the required amount that Bozhidara will have to pay to the contracting company for the project. The price per square meter is 7.61 BGN including VAT. Since her yard is quite large, the contracting company offers an 18% discount on the final price.  => [Solution](https://github.com/iliyanh/SoftUni/blob/main/JS%20Basics/First%20Steps%20In%20Coding%20-%20Lab/yardgreen.js)
   
 
-      
-- **Lesson 1.1: First Steps In Coding - Exercise**
 
-    In this lab, we'll cover the following problems:
+### Lesson 1.1: First Steps In Coding - Exercise
+
+In this lab, we'll cover the following problems:
    
-     1. **Problem 1** : Write a function to convert US Dollars (USD) to Bulgarian Leva (BGN). Use a fixed exchange rate between the dollar and the lev: 1 USD = 1.79549 BGN.  =>  [Solution](https://github.com/iliyanh/SoftUni/blob/main/JS%20Basics/First%20Steps%20In%20Coding%20-%20Exercise/usdtobgn.js)
+1. **Problem 1** : Write a function to convert US Dollars (USD) to Bulgarian Leva (BGN). Use a fixed exchange rate between the dollar and the lev: 1 USD = 1.79549 BGN.  =>  [Solution](https://github.com/iliyanh/SoftUni/blob/main/JS%20Basics/First%20Steps%20In%20Coding%20-%20Exercise/usdtobgn.js)
   
    
-     2. **Problem 2** : Write a program that reads an angle in radians (a decimal number) and converts it to degrees. Use the formula: degrees = radians * 180 / π. The number π in Java programs is accessible through Math.PI  => [Solution](https://github.com/iliyanh/SoftUni/blob/main/JS%20Basics/First%20Steps%20In%20Coding%20-%20Exercise/radianstodegrees.js)
+2. **Problem 2** : Write a program that reads an angle in radians (a decimal number) and converts it to degrees. Use the formula: degrees = radians * 180 / π. The number π in Java programs is accessible through Math.PI  => [Solution](https://github.com/iliyanh/SoftUni/blob/main/JS%20Basics/First%20Steps%20In%20Coding%20-%20Exercise/radianstodegrees.js)
   
    
-     3. **Problem 3** : Write a program that calculates the amount you will receive at the end of a deposit period with a certain interest rate. Use the following formula:
+3. **Problem 3** : Write a program that calculates the amount you will receive at the end of a deposit period with a certain interest rate. Use the following formula:
 
-        amount = deposited amount + deposit period * ((deposited amount * annual interest rate) / 12)
+   amount = deposited amount + deposit period * ((deposited amount * annual interest rate) / 12)
 
-        Input:
+   Input:
 
-        Read 3 lines from the console:
+   Read 3 lines from the console:
 
-        Deposited amount - a real number in the range [100.00 … 10000.00]
+   Deposited amount - a real number in the range [100.00 … 10000.00]
 
-        Deposit period (in months) - an integer in the range [1…12]
+   Deposit period (in months) - an integer in the range [1…12]
 
-        Annual interest rate - a real number in the range [0.00 … 100.00]
+   Annual interest rate - a real number in the range [0.00 … 100.00]
 
-        Output:
+   Output:
 
-        Print the amount at the end of the period on the console.  => [Solution](https://github.com/iliyanh/SoftUni/blob/main/JS%20Basics/First%20Steps%20In%20Coding%20-%20Exercise/depositcalculator.js)
+   Print the amount at the end of the period on the console.  => [Solution](https://github.com/iliyanh/SoftUni/blob/main/JS%20Basics/First%20Steps%20In%20Coding%20-%20Exercise/depositcalculator.js)
   
    
-     4. **Problem 4** : For the summer vacation, in Joro's mandatory reading list, there is a certain number of books. Since Joro prefers to play with friends outside, your task is to help him calculate how many hours per day he needs to dedicate to reading the required literature.
+4. **Problem 4** : For the summer vacation, in Joro's mandatory reading list, there is a certain number of books. Since Joro prefers to play with friends outside, your task is to help him calculate how many hours per day he needs to dedicate to reading the required literature.
 
-        Input:
+   Input:
 
-        Read 3 lines from the console:
+   Read 3 lines from the console:
 
-        Number of pages in the current book - an integer in the range [1…1000]
+   Number of pages in the current book - an integer in the range [1…1000]
 
-        Pages he reads per hour - an integer in the range [1…1000]
+   Pages he reads per hour - an integer in the range [1…1000]
 
-        Number of days he has to read the book - an integer in the range [1…1000]
+   Number of days he has to read the book - an integer in the range [1…1000]
 
-        Output:
+   Output:
 
-        Print on the console the number of hours that Joro needs to allocate for reading each day.  => [Solution](https://github.com/iliyanh/SoftUni/blob/main/JS%20Basics/First%20Steps%20In%20Coding%20-%20Exercise/vacationbooklist.js)
+   Print on the console the number of hours that Joro needs to allocate for reading each day.  => [Solution](https://github.com/iliyanh/SoftUni/blob/main/JS%20Basics/First%20Steps%20In%20Coding%20-%20Exercise/vacationbooklist.js)
   
    
-     5. **Problem 5** : The school year has already started, and Ani, the class representative of 10B, needs to buy a certain number of pencil cases, marker sets, and a whiteboard cleaning solution. She is a regular customer at a bookstore, so she gets a discount, which is a certain percentage of the total amount. Write a program that         calculates how much money Ani needs to gather in order to pay the bill, considering the following price list:
+5. **Problem 5** : The school year has already started, and Ani, the class representative of 10B, needs to buy a certain number of pencil cases, marker sets, and a whiteboard cleaning solution. She is a regular customer at a bookstore, so she gets a discount, which is a certain percentage of the total amount. Write a program that         calculates how much money Ani needs to gather in order to pay the bill, considering the following price list:
 
-        • Pencil case - 5.80 BGN
+   • Pencil case - 5.80 BGN
 
-        • Marker set - 7.20 BGN
+   • Marker set - 7.20 BGN
 
-        • Cleaning solution - 1.20 BGN per liter
+   • Cleaning solution - 1.20 BGN per liter
 
-        Input:
+   Input:
 
-        Read 4 numbers from the console:
+   Read 4 numbers from the console:
 
-        · Number of pencil case packs - an integer in the range [0...100]
+   · Number of pencil case packs - an integer in the range [0...100]
 
-        · Number of marker set packs - an integer in the range [0...100]
+   · Number of marker set packs - an integer in the range [0...100]
 
-        · Liters of cleaning solution - an integer in the range [0…50]
+   · Liters of cleaning solution - an integer in the range [0…50]
 
-        · Discount percentage - an integer in the range [0...100]
+   · Discount percentage - an integer in the range [0...100]
 
-        Output:
+   Output:
 
-        Print on the console how much money Ani needs to pay for the bill  => [Solution](https://github.com/iliyanh/SoftUni/blob/main/JS%20Basics/First%20Steps%20In%20Coding%20-%20Exercise/schoolsupplies.js)
+   Print on the console how much money Ani needs to pay for the bill  => [Solution](https://github.com/iliyanh/SoftUni/blob/main/JS%20Basics/First%20Steps%20In%20Coding%20-%20Exercise/schoolsupplies.js)
 
    
-     6. **Problem 6** : 
-        Rumen wants to repaint his living room, so he has hired professionals for the job. Write a program that calculates the expenses for the renovation, considering the following prices:
+6. **Problem 6** : Rumen wants to repaint his living room, so he has hired professionals for the job. Write a program that calculates the expenses for the renovation, considering the following prices:
 
-        · Protective plastic sheet - 1.50 BGN per square meter
+   · Protective plastic sheet - 1.50 BGN per square meter
 
-        · Paint - 14.50 BGN per liter
+   · Paint - 14.50 BGN per liter
 
-        · Paint thinner - 5.00 BGN per liter
+   · Paint thinner - 5.00 BGN per liter
 
-        As an extra precaution, Rumen wants to add 10% more paint and 2 square meters of plastic sheet to the required materials, along with 0.40 BGN for plastic bags. The amount paid to the professionals for 1 hour of work is equal to 30% of the sum of all material costs.
+   As an extra precaution, Rumen wants to add 10% more paint and 2 square meters of plastic sheet to the required materials, along with 0.40 BGN for plastic bags. The amount paid to the professionals for 1 hour of work is equal to 30% of the sum of all material costs.
 
-        Input:
+   Input:
 
-        The input contains exactly 4 lines:
+   The input contains exactly 4 lines:
 
-        Required amount of plastic sheet (in square meters) - an integer in the range [1...100]
+   Required amount of plastic sheet (in square meters) - an integer in the range [1...100]
 
-        Required amount of paint (in liters) - an integer in the range [1…100]
+   Required amount of paint (in liters) - an integer in the range [1…100]
 
-        Quantity of paint thinner (in liters) - an integer in the range [1…30]
+   Quantity of paint thinner (in liters) - an integer in the range [1…30]
 
-        Hours the professionals will work - an integer in the range [1…9]
+   Hours the professionals will work - an integer in the range [1…9]
 
-        Output:
+   Output:
 
-        Print one line on the console:
+   Print one line on the console:
 
-        · "{total expenses}"  => [Solution](https://github.com/iliyanh/SoftUni/blob/main/JS%20Basics/First%20Steps%20In%20Coding%20-%20Exercise/repainting.js)
+   · "{total expenses}"  => [Solution](https://github.com/iliyanh/SoftUni/blob/main/JS%20Basics/First%20Steps%20In%20Coding%20-%20Exercise/repainting.js)
 
 
-     7. **Problem 7** : A restaurant opens its doors and offers several dishes at preferential prices:
+7. **Problem 7** : A restaurant opens its doors and offers several dishes at preferential prices:
 
-        • Chicken - 10.35 BGN
+   • Chicken - 10.35 BGN
 
-        • Fish - 12.40 BGN
+   • Fish - 12.40 BGN
 
-        • Vegetarian - 8.15 BGN
+   • Vegetarian - 8.15 BGN
 
-        Write a program that calculates how much it will cost a group of people to order food for takeaway.
+   Write a program that calculates how much it will cost a group of people to order food for takeaway.
 
-        The group will also order a dessert, the price of which is 20% of the total bill (excluding delivery).
+   The group will also order a dessert, the price of which is 20% of the total bill (excluding delivery).
 
-        The delivery fee is 2.50 BGN and is added at the end.
+   The delivery fee is 2.50 BGN and is added at the end.
 
-        Input:
+   Input:
 
-        Read 3 lines from the console:
+   Read 3 lines from the console:
 
-        · Number of chicken orders - an integer in the range [0 … 99]
+   · Number of chicken orders - an integer in the range [0 … 99]
 
-        · Number of fish orders - an integer in the range [0 … 99]
+   · Number of fish orders - an integer in the range [0 … 99]
 
-        · Number of vegetarian orders - an integer in the range [0 … 99]
+   · Number of vegetarian orders - an integer in the range [0 … 99]
 
-        Output:
+   Output:
 
-        Print one line on the console: "{total order price}"  => [Solution](https://github.com/iliyanh/SoftUni/blob/main/JS%20Basics/First%20Steps%20In%20Coding%20-%20Exercise/fooddelivery.js)
+   Print one line on the console: "{total order price}"  => [Solution](https://github.com/iliyanh/SoftUni/blob/main/JS%20Basics/First%20Steps%20In%20Coding%20-%20Exercise/fooddelivery.js)
   
    
-     8. **Problem 8** : Jesse  wants to start training basketball, but to train, she needs equipment. Write a program that calculates what expenses Jesse will have if she starts training, knowing the basketball training fee for a period of 1 year. Required equipment:
+8. **Problem 8** : Jesse  wants to start training basketball, but to train, she needs equipment. Write a program that calculates what expenses Jesse will have if she starts training, knowing the basketball training fee for a period of 1 year. Required equipment:
 
-        • Basketball shoes - their price is 40% less than the annual training fee
+   • Basketball shoes - their price is 40% less than the annual training fee
 
-        • Basketball outfit - its price is 20% cheaper than that of the shoes
+   • Basketball outfit - its price is 20% cheaper than that of the shoes
 
-        • Basketball ball - its price is 1 / 4 of the basketball outfit price
+   • Basketball ball - its price is 1 / 4 of the basketball outfit price
 
-        • Basketball accessories - their price is 1 / 5 of the basketball ball price
+   • Basketball accessories - their price is 1 / 5 of the basketball ball price
 
-        Input:
+   Input:
 
-        Read 1 line from the console:
+   Read 1 line from the console:
 
-        · Annual basketball training fee - an integer in the range [0… 9999]
+   · Annual basketball training fee - an integer in the range [0… 9999]
 
-        Output:
+   Output:
 
-        Print on the console how much Jesse's expenses will be if she starts practicing basketball.  => [Solution](https://github.com/iliyanh/SoftUni/blob/main/JS%20Basics/First%20Steps%20In%20Coding%20-%20Exercise/basketballequipment.js)
+   Print on the console how much Jesse's expenses will be if she starts practicing basketball.  => [Solution](https://github.com/iliyanh/SoftUni/blob/main/JS%20Basics/First%20Steps%20In%20Coding%20-%20Exercise/basketballequipment.js)
   
    
-     9. **Problem 9** : For his birthday, Lyubomir received a parallelepiped-shaped aquarium. Initially, we read its dimensions from the console - length, width, and height in centimeters. It needs to be calculated how many liters of water the aquarium will hold, knowing that a certain percentage of its capacity is occupied by sand,         plants, a heater, and a pump.
+9. **Problem 9** : For his birthday, Lyubomir received a parallelepiped-shaped aquarium. Initially, we read its dimensions from the console - length, width, and height in centimeters. It needs to be calculated how many liters of water the aquarium will hold, knowing that a certain percentage of its capacity is occupied by sand,         plants, a heater, and a pump.
 
-        One liter of water is equivalent to one cubic decimeter / 1 L = 1 dm³ /
-        Write a program that calculates the liters of water needed to fill the aquarium.
+   One liter of water is equivalent to one cubic decimeter / 1 L = 1 dm³ /
+   Write a program that calculates the liters of water needed to fill the aquarium.
 
-        Input:
+   Input:
 
-        Read 4 lines from the console:
+   Read 4 lines from the console:
 
-        Length in cm - an integer in the range [10 ... 500]
+   Length in cm - an integer in the range [10 ... 500]
 
-        Width in cm - an integer in the range [10 ... 300]
+   Width in cm - an integer in the range [10 ... 300]
 
-        Height in cm - an integer in the range [10 ... 200]
+   Height in cm - an integer in the range [10 ... 200]
 
-        Percentage - a real number in the range [0.000 ... 100.000]
+   Percentage - a real number in the range [0.000 ... 100.000]
 
-        Output:
+   Output:
 
-        Print one number on the console:
+   Print one number on the console:
 
-        · liters of water that the aquarium will hold  => [Solution](https://github.com/iliyanh/SoftUni/blob/main/JS%20Basics/First%20Steps%20In%20Coding%20-%20Exercise/fishtank.js)
+   · liters of water that the aquarium will hold  => [Solution](https://github.com/iliyanh/SoftUni/blob/main/JS%20Basics/First%20Steps%20In%20Coding%20-%20Exercise/fishtank.js)
 
 
 
-  - Lesson 2: Conditional Statements - Lab
+## Lesson 2: Conditional Statements - Lab
+
+   1. **Problem 1** : The first task in this topic is to write a function that reads a grade as an argument and prints "Excellent!" if the grade is 5.50 or higher.  =>  [Solution](https://github.com/iliyanh/SoftUni/blob/main/JS%20Basics/Conditional%20Statements%20-%20Lab/excellent.js)
+  
+   
+   2. **Problem 2** : Write a function that takes two integers and prints the greater of the two.  => [Solution](https://github.com/iliyanh/SoftUni/blob/main/JS%20Basics/Conditional%20Statements%20-%20Lab/greaternumber.js)
+  
+   
+   3. **Problem 3** : Write a function that takes an integer as an argument and prints whether it's even or odd. If it's even, print "even", and if it's odd, print "odd".  => [Solution](https://github.com/iliyanh/SoftUni/blob/main/JS%20Basics/Conditional%20Statements%20-%20Lab/oddoreven.js)
+  
+   
+   4. **Problem 4** : Write a function that receives a password (text) and checks if the provided password matches the phrase "s3cr3t!P@ssw0rd". If they match, print "Welcome". If they don't match, print "Wrong password!".  => [Solution](https://github.com/iliyanh/SoftUni/blob/main/JS%20Basics/Conditional%20Statements%20-%20Lab/guessthepassword.js)
+  
+   
+   5. **Problem 5** : Write a function that takes an integer and checks whether it's below 100, between 100 and 200, or above 200. If the number is:
+
+       · below 100, print: "Less than 100"
+
+       · between 100 and 200, print: "Between 100 and 200"
+
+       · above 200, print: "Greater than 200"  => [Solution](https://github.com/iliyanh/SoftUni/blob/main/JS%20Basics/Conditional%20Statements%20-%20Lab/100to200number.js)
+
+   
+   6. **Problem 6** : Write a function that receives a speed (a real number) and prints information about the speed.
+
+       · For speeds up to 10 (inclusive), print "slow"
+
+       · For speeds above 10 up to 50 (inclusive), print "average"
+
+       · For speeds above 50 up to 150 (inclusive), print "fast"
+
+       · For speeds above 150 up to 1000 (inclusive), print "ultra fast"
+
+       · For higher speeds, print "extremely fast"  => [Solution](https://github.com/iliyanh/SoftUni/blob/main/JS%20Basics/Conditional%20Statements%20-%20Lab/speed.js)
+
+
+   7. **Problem 7** : Write a function that receives the type and dimensions of a geometric shape and calculates its area. There are four types of shapes: square, rectangle, circle, and triangle. The input consists of the following:
+
+       · If the shape is a square: on the next line, read a floating-point number - the length of its side
+
+       · If the shape is a rectangle: on the next two lines, read two floating-point numbers - the lengths of its sides
+
+       · If the shape is a circle: on the next line, read a floating-point number - the radius of the circle
+
+       · If the shape is a triangle: on the next two lines, read two floating-point numbers - the length of its base and the length of the height to it
+
+       The result should be rounded to 3 decimal places  => [Solution](https://github.com/iliyanh/SoftUni/blob/main/JS%20Basics/Conditional%20Statements%20-%20Lab/figuresarea.js)
+  
+ 
+
+
+
   - Lesson 2.1: Conditional Statements - Exercise
   - Lesson 3: Conditional Statements Advanced - Lab
   - Lesson 3.1: Conditional Statements Advanced - Exercise
@@ -253,7 +303,7 @@ This repository serves as a portfolio of the projects and assignments I've under
   - Lesson 8: Exam
   
 
-### JavaScript Fundamentals
+# JavaScript Fundamentals
 
 - **Lesson 1: Functions and Control Flow**
   - Assignment: Basic Function Practice
@@ -261,7 +311,7 @@ This repository serves as a portfolio of the projects and assignments I've under
   - Assignment: Array Manipulation Task
 - ... (continue with other lessons)
 
-### JavaScript Applications
+# JavaScript Applications
 
 - **Lesson 1: Introduction to DOM Manipulation**
   - Assignment: Interactive To-Do List
@@ -269,7 +319,7 @@ This repository serves as a portfolio of the projects and assignments I've under
   - Assignment: Form Validation Script
 - ... (continue with other lessons)
 
-### JavaScript Web
+# JavaScript Web
 
 - **Lesson 1: Working with HTTP and APIs**
   - Assignment: Fetch API Practice
@@ -277,7 +327,7 @@ This repository serves as a portfolio of the projects and assignments I've under
   - Assignment: Asynchronous Task Tracker
 - ... (continue with other lessons)
 
-### JavaScript FrontEnd
+# JavaScript FrontEnd
 
 - **Lesson 1: Introduction to FrontEnd Frameworks**
   - Assignment: Basic React Component
@@ -286,13 +336,13 @@ This repository serves as a portfolio of the projects and assignments I've under
 - ... (continue with other lessons)
 
 - 
-## Technologies Used
+# Technologies Used
 
 - Programming Languages: JavaScript
 - Web Technologies: HTML, CSS
 - Version Control: GitHub
 
-## Contact
+# Contact
 Feel free to reach out if you have any questions or opportunities! You can contact me at ihadzhiev1@gmail.com
 
 
