@@ -471,7 +471,85 @@ In this lab, we'll cover the following problems:
 
 
 
-  - Lesson 3: Conditional Statements Advanced - Lab
+## Lesson 3: Conditional Statements Advanced - Lab
+
+   1. **Problem 1** : Write a function that receives an integer and prints a day of the week (in English), within the range [1...7], or prints "Error" if the entered number is invalid.  =>  [Solution](https://github.com/iliyanh/SoftUni/blob/main/JS%20Basics/Conditional%20Statements%20Advanced%20-%20Lab/DayofWeek.js)
+  
+   
+   2. **Problem 2** : Write a function that reads a day of the week (text) in English - entered by the user. If the day is a working day, it prints "Working day" to the console, and if it's a weekend, it prints "Weekend". If a text other than a day of the week is entered, it should print "Error".  => [Solution](https://github.com/iliyanh/SoftUni/blob/main/JS%20Basics/Conditional%20Statements%20Advanced%20-%20Lab/WeekendorWorkingDay.js)
+  
+   
+   3. **Problem 3** : Write a function that prints the class of an animal based on its name entered by the user.
+
+        dog -> mammal
+
+       crocodile, tortoise, snake -> reptile
+
+       others -> unknown  => [Solution](https://github.com/iliyanh/SoftUni/blob/main/JS%20Basics/Conditional%20Statements%20Advanced%20-%20Lab/AnimalType.js)
+  
+   
+   4. **Problem 4** : Write a function that takes age (a real number) and gender ('m' or 'f') entered by the user, and prints a salutation from the following:
+
+      · "Mr." - male ('m') at 16 or older
+
+      · "Master" - boy ('m') under 16 years old
+
+      · "Ms." - female ('f') at 16 or older
+
+      · "Miss" - girl ('f') under 16 years old  => [Solution](https://github.com/iliyanh/SoftUni/blob/main/JS%20Basics/Conditional%20Statements%20Advanced%20-%20Lab/PersonalTitles.js)
+  
+   
+   5. **Problem 5** : George opens  shops in several cities and sells at different prices depending on the city:
+Write a function that takes arguments: product (string), city (string), and quantity (number), and calculates and prints the total cost of the specified quantity of the chosen product in the indicated city.  => [Solution](https://github.com/iliyanh/SoftUni/blob/main/JS%20Basics/Conditional%20Statements%20Advanced%20-%20Lab/smallShop.js)
+
+   
+   6. **Problem 6** : Write a function that checks if the number entered by the user is in the range [-100, 100], is different from 0, and outputs "Yes" if it meets the conditions, or "No" if it's outside of them.  => [Solution](https://github.com/iliyanh/SoftUni/blob/main/JS%20Basics/Conditional%20Statements%20Advanced%20-%20Lab/NumberinRange.js)
+
+
+   7. **Problem 7** : Write a function that receives an hour of the day (integer) and a day of the week (text), and checks if the company's office is open. The office's working hours are from 10 AM to 6 PM, from Monday to Saturday inclusive.  => [Solution](https://github.com/iliyanh/SoftUni/blob/main/JS%20Basics/Conditional%20Statements%20Advanced%20-%20Lab/Workinghours.js)
+  
+   
+   8. **Problem 8** : Write a function that takes a day of the week (text) as input and prints the cinema ticket price for that day of the week on the console.  => [Solution](https://github.com/iliyanh/SoftUni/blob/main/JS%20Basics/Conditional%20Statements%20Advanced%20-%20Lab/CinemaTicket.js)
+  
+   
+   9. **Problem 9** : Write a function that takes a product name as an argument and checks whether it is a fruit or a vegetable.
+
+      Fruits "fruit" have the following possible values: banana, apple, kiwi, cherry, lemon, and grapes.
+
+      Vegetables "vegetable" have the following possible values: tomato, cucumber, pepper, and carrot.
+
+      All others are "unknown".
+
+      Print "fruit", "vegetable", or "unknown" based on the entered product.  => [Solution](https://github.com/iliyanh/SoftUni/blob/main/JS%20Basics/Conditional%20Statements%20Advanced%20-%20Lab/FruitorVegetable.js)
+      
+   10. **Problem 10** : A given number is valid if it is in the range [100...200] or if it is 0. Write a function that takes an integer argument and prints "invalid" if the entered number is not valid => [Solution](https://github.com/iliyanh/SoftUni/blob/main/JS%20Basics/Conditional%20Statements%20Advanced%20-%20Lab/InvalidNumber.js)
+   11. **Problem 11** : A fruit store charges the following prices on weekdays:
+       
+      | Fruit      | Price |
+      |------------|-------|
+      | Banana     | 2.50  |
+      | Apple      | 1.20  |
+      | Orange     | 0.85  |
+      | Grapefruit | 1.45  |
+      | Kiwi       | 2.70  |
+      | Pineapple  | 5.50  |
+      | Grapes     | 3.85  |
+      
+  On Saturday and Sunday, the store operates at higher prices:
+  
+      | Fruit       | Price  |
+      |------------|-------|
+      | Banana     | 2.70  |
+      | Apple      | 1.25  |
+      | Orange     | 0.90  |
+      | Grapefruit | 1.60  |
+      | Kiwi       | 3.00  |
+      | Pineapple  | 5.60  |
+      | Grapes     | 4.20  |
+
+  Write a function that takes arguments: fruit (banana / apple / orange / grapefruit / kiwi / pineapple / grapes), day of the week (Monday / Tuesday / Wednesday / Thursday / Friday / Saturday / Sunday), and quantity (number), and calculates the price according to the prices in the tables above. The result should be printed rounded to 2 decimal places. In case of an invalid day of the week or an invalid fruit name, print "error". => [Solution](https://github.com/iliyanh/SoftUni/blob/main/JS%20Basics/Conditional%20Statements%20Advanced%20-%20Lab/FruitShop.js)
+
+
   - Lesson 3.1: Conditional Statements Advanced - Exercise
   - Lesson 4: For Loop - Lab
   - Lesson 4.1: For Loop - Exercise
