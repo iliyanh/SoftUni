@@ -537,7 +537,7 @@ Write a function that takes arguments: product (string), city (string), and quan
       
   On Saturday and Sunday, the store operates at higher prices:
   
-      | Fruit       | Price  |
+      | Fruit      | Price |
       |------------|-------|
       | Banana     | 2.70  |
       | Apple      | 1.25  |
