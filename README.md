@@ -466,7 +466,7 @@ In this lab, we'll cover the following problems:
        If there is not enough time:
        "You don't have enough time to watch {TV series name}, you need {required time} more minutes."
 
-       Time should be rounded up to the nearest integer.  => [Solution](https://github.com/iliyanh/SoftUni/blob/main/JS%20Basics/First%20Steps%20In%20Coding%20-%20Lab/petshop.js)
+       Time should be rounded up to the nearest integer.  => [Solution](https://github.com/iliyanh/SoftUni/blob/main/JS%20Basics/Conditional%20Statements%20-%20Exercise/lunchbreak.js)
   
 
 
