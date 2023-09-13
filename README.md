@@ -16,7 +16,7 @@ Welcome to my SoftUni homework repository! This repository contains the assignme
 
 
 
-# Description
+## Description
 
 
 This repository serves as a portfolio of the projects and assignments I've undertaken as part of my studies at SoftUni. Each folder corresponds to a different course or module, containing the associated materials and code.
