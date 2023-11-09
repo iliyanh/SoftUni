@@ -39,22 +39,22 @@ This repository serves as a portfolio of the projects and assignments I've under
   Conditional Statements: Applied conditional constructs, including if and if-else statements.
   Loops: Delved into working with loops, including for, while, and do-while loops.
   
-  #### Console Interaction (Input and Output)
+  __Console Interaction (Input and Output)__
   Explored the intricacies of console input and output, enhancing my ability to interact with programs effectively.
 
-  #### Working with Loops (for)
+  __Working with Loops (for)__
   Developed proficiency in using for loops, a fundamental construct for iterative processes.
 
-  #### Advanced Logical Checks
+  __Advanced Logical Checks__
   Expanded my knowledge of logical checks, enabling me to handle more complex conditions in my code.
 
-  #### Working with Logical Checks (if-else)
+  __Working with Logical Checks (if-else)__
   Mastered the art of using if-else statements for effective decision-making in my programs.
 
-  #### Performing Simple Calculations
+  __Performing Simple Calculations__
   Applied my skills to perform basic computations, enhancing the functionality of my programs.
 
-  #### Advanced Looping Techniques
+  __Advanced Looping Techniques__
   Explored more complex loops, including nested for loops and while loops.
   
 
