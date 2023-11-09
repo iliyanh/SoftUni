@@ -57,14 +57,48 @@ This repository serves as a portfolio of the projects and assignments I've under
   - __Advanced Looping Techniques__.
     - Explored more complex loops, including nested for loops and while loops.
   
+  **Feel free to explore the content, code examples, and projects in this repository. If you have any questions or would like to discuss anything further, don't hesitate to reach out!**
 
-# JavaScript Fundamentals
+  
+## JavaScript Fundamentals
 
-- **Lesson 1: Functions and Control Flow**
-  - Assignment: Basic Function Practice
-- **Lesson 2: Arrays and Loops**
-  - Assignment: Array Manipulation Task
-- ... (continue with other lessons)
+  - __Course Overview__.
+     
+    - The course explores fundamental programming concepts, laying the groundwork for effective and high-quality learning in professional modules.
+    In this course we build upon the knowledge gained in the "Programming Basics", progressing to more advanced programming techniques and structures such as arrays,
+    objects, and classes. Additional technologies essential for every software developer are covered, including HTML and CSS, HTTP, bitwise operations, and more. 
+    The basics of web development are explored, along with one of the most common technologies and tools.
+
+  - **Topics Covered**
+
+    - Dealing with the standard functionality of a programming language
+    - Working with linear data structures
+    - Understanding the interrelation between different IT concepts
+    - Analyzing problems
+    - Basic HTML and CSS skills
+
+  - **What I Learned**
+
+    Throughout the course, I gained proficiency in the following areas:
+
+    - Basic Syntax, Conditional Statements, and Loops
+    - Git and GitHub
+    - Data Types and Variables
+    - HTTP Basics
+    - Arrays
+    - HTML & CSS Basics
+    - Functions
+    - Arrays Advanced
+    - Objects and Classes
+    - Associative Arrays
+    - Bitwise Operations
+    - Text Processing
+    - Problem Solving
+    - Regular Expressions
+    - Database Basics
+
+
+  **Feel free to explore the content, code examples, and projects in this repository. If you have any questions or would like to discuss anything further, don't hesitate to reach out!**
 
 # JavaScript Applications
 
