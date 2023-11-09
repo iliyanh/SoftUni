@@ -31,30 +31,31 @@ This repository serves as a portfolio of the projects and assignments I've under
    🚀 This course provides foundational programming skills. Here's a breakdown of what I've learned:
 
   ### Key Concepts Covered
-  #### Basic Coding Skills: Acquired proficiency in writing introductory-level code.
-IDE Usage: Explored working with an Integrated Development Environment (IDE).
-Variables and Data: Learned to use variables and handle data effectively.
-Operators and Expressions: Mastered the use of operators and expressions.
-Console Interaction: Gained experience in reading input and printing results through the console.
-Conditional Statements: Applied conditional constructs, including if and if-else statements.
-Loops: Delved into working with loops, including for, while, and do-while loops.
-Console Interaction (Input and Output)
-Explored the intricacies of console input and output, enhancing my ability to interact with programs effectively.
+  Basic Coding Skills: Acquired proficiency in writing introductory-level code.
+  IDE Usage: Explored working with an Integrated Development Environment (IDE).
+  Variables and Data: Learned to use variables and handle data effectively.
+  Operators and Expressions: Mastered the use of operators and expressions.
+  Console Interaction: Gained experience in reading input and printing results through the console.
+  Conditional Statements: Applied conditional constructs, including if and if-else statements.
+  Loops: Delved into working with loops, including for, while, and do-while loops.
+  
+  #### Console Interaction (Input and Output)
+  Explored the intricacies of console input and output, enhancing my ability to interact with programs effectively.
 
-Working with Loops (for)
-Developed proficiency in using for loops, a fundamental construct for iterative processes.
+  #### Working with Loops (for)
+  Developed proficiency in using for loops, a fundamental construct for iterative processes.
 
-Advanced Logical Checks
-Expanded my knowledge of logical checks, enabling me to handle more complex conditions in my code.
+  #### Advanced Logical Checks
+  Expanded my knowledge of logical checks, enabling me to handle more complex conditions in my code.
 
-Working with Logical Checks (if-else)
-Mastered the art of using if-else statements for effective decision-making in my programs.
+  #### Working with Logical Checks (if-else)
+  Mastered the art of using if-else statements for effective decision-making in my programs.
 
-Performing Simple Calculations
-Applied my skills to perform basic computations, enhancing the functionality of my programs.
+  #### Performing Simple Calculations
+  Applied my skills to perform basic computations, enhancing the functionality of my programs.
 
-Advanced Looping Techniques
-Explored more complex loops, including nested for loops and while loops.
+  #### Advanced Looping Techniques
+  Explored more complex loops, including nested for loops and while loops.
   
 
 # JavaScript Fundamentals
