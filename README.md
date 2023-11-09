@@ -30,8 +30,7 @@ This repository serves as a portfolio of the projects and assignments I've under
 
    🚀 This course provides foundational programming skills. Here's a breakdown of what I've learned:
 
-  __Key Concepts Covered__
-  
+  **Key Concepts Covered**
     Basic Coding Skills: Acquired proficiency in writing introductory-level code.
     IDE Usage: Explored working with an Integrated Development Environment (IDE).
     Variables and Data: Learned to use variables and handle data effectively.
