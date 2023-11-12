@@ -8,8 +8,12 @@ Welcome to my SoftUni homework repository! This repository contains the assignme
 - [Courses](#courses)
   - [JavaScript Basics](#javascript-basics)
   - [JavaScript Fundamentals](#javascript-fundamentals)
-  - [JavaScript Applications](#javascript-applications)
+  - [JavaScript Advanced](#javascript-advanced)
+    - [JS Advanced](#js-advanced)
+    - [JS Applications](#js-applications)
   - [JavaScript Web](#javascript-web)
+    - [JS Back-End](#js-back-end)
+    - [React](#react)
   - [JavaScript FrontEnd](#javascript-frontend)
 - [Technologies Used](#technologies-used)
 - [Contact](#contact)
@@ -100,21 +104,18 @@ This repository serves as a portfolio of the projects and assignments I've under
 
   **Feel free to explore the content, code examples, and projects in this repository. If you have any questions or would like to discuss anything further, don't hesitate to reach out!**
 
-# JavaScript Applications
+# JavaScript Advanced
 
-- **Lesson 1: Introduction to DOM Manipulation**
-  - Assignment: Interactive To-Do List
-- **Lesson 2: Event Handling and Form Validation**
-  - Assignment: Form Validation Script
-- ... (continue with other lessons)
+  ## JS Advanced
+
+  ## JS Applications
 
 # JavaScript Web
 
-- **Lesson 1: Working with HTTP and APIs**
-  - Assignment: Fetch API Practice
-- **Lesson 2: Asynchronous Programming**
-  - Assignment: Asynchronous Task Tracker
-- ... (continue with other lessons)
+  ## JS Back-End
+  
+  ## React
+  
 
 # JavaScript FrontEnd
 
