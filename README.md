@@ -107,13 +107,108 @@ This repository serves as a portfolio of the projects and assignments I've under
 # JavaScript Advanced
 
   ## JS Advanced
+  - __Course Overview:__
+
+    In the "JS Advanced" course, I covered essential aspects of JavaScript programming, moving beyond the basics. Here are key things I learned and the topics covered:
+
+  - __Key Learnings:__
+
+    - Foundational JavaScript Skills: Explored syntax basics, working with arrays, matrices, objects, and writing functions.
+
+    - Advanced Concepts: Delved into more complex ideas such as function context, explicit binding, and understanding the event loop.
+
+    - Algorithmic Thinking: The course aimed to enhance problem-solving skills through algorithmic thinking.
+
+    - DOM Manipulation: Successfully gained the ability to work with the Document Object Model (DOM) to interact with and modify webpage content.
+
+    - Programming Paradigms: Covered both Object-Oriented Programming (OOP) and functional programming approaches in JavaScript.
+
+  - __Topics Covered:__
+
+    - Working with Classes and Objects: Explored creating and using classes and objects in JavaScript.
+
+    - Handling Functions and JSON Formats: Developed skills in managing functions and working with data in JSON format.
+
+    - DOM Manipulation: Covered techniques for extracting information from the DOM tree and manipulating webpage content.
+
+    - Linear Data Structures: Explored working with linear data structures like arrays.
+
+    - Functional Programming Concepts: Learned and applied concepts of functional programming in JavaScript.
+
+    - This course equipped me with a solid foundation in JavaScript, providing practical skills applicable to real-world development scenarios.
+      
+  **Feel free to explore the content, code examples, and projects in this repository. If you have any questions or would like to discuss anything further, don't hesitate to reach out!**
 
   ## JS Applications
+  - **Course Overview:**
+
+    Here's a summary of what I covered and the skills I acquired:
+
+  - **Key Learnings:**
+     - Understanding HTTP Requests: Explored the fundamentals of HTTP requests and their application.
+
+     - Working with REST Services: Learned to interact with REST services and the concept of Backend as a Service (BaaS).
+
+     - Asynchronous Code: Gained insights into asynchronous coding using Promises and async/await.
+
+     - Templating and Routing: Explored Templating and Routing techniques for building dynamic web applications.
+
+     - Single Page Application Development: Created Single Page Applications, incorporating techniques learned in previous sessions, with evaluation at the end.
+
+     - Application Architecture: Understood the architecture of web applications and learned proper structuring techniques.
+
+     - Design Patterns: Explored various design patterns practically, created custom web components using the Web Components standard.
+
+     - Webpack Environment Setup: Constructed a Webpack environment from scratch.
+
+  - **Skills Acquired:**
+     - Working with Non-Relational Databases: Acquired skills in managing databases that don't follow the traditional relational model.
+
+     - Creating Simple Single Page Applications: Developed the ability to create straightforward Single Page Applications.
+
+     - REST API and Asynchronous Programming: Learned how to work with REST APIs and implemented asynchronous programming concepts.
+
+     - Template Handling and Routing: Gained practical experience in handling templates and routing within applications.
+
+     - Application Testing: Explored techniques for testing applications.
+
+     - HTTP Fundamentals: Understood the basics of HTTP and how to make requests.
+
+This course equipped me with practical skills in building dynamic web applications, utilizing various design patterns, and structuring applications effectively. The focus on hands-on projects, including Single Page Application development and Webpack setup, enhanced my ability to create modern, well-designed web applications.
+
+**Feel free to explore the content, code examples, and projects in this repository. If you have any questions or would like to discuss anything further, don't hesitate to reach out!**
 
 # JavaScript Web
 
   ## JS Back-End
-  
+  - **Course Overview:**
+
+Throughout the intensive "Server-Side JavaScript Development with Node.js and Express.js" course, I acquired practical skills in building server-side applications. Here's a overview of what I learned:
+
+  - **Key Learnings:**
+    - MVC Architecture Creation: Developed the ability to structure applications using the Model-View-Controller (MVC) pattern.
+
+    - Express.js and Handlebars: Gained proficiency in building applications with Express.js and implementing dynamic views using the Handlebars templating engine.
+
+    - Working with Non-Relational Databases: Learned to manage non-relational databases, with a specific focus on MongoDB.
+
+    - Server-Side Applications with Node.js: Acquired the knowledge and skills to create server-side applications using Node.js, understanding the server-client architecture.
+
+    - HTTP Protocol Handling: Explored the intricacies of working with the HTTP protocol.
+
+    - Web Server Utilization: Learned effective usage of a web server for application deployment.
+
+  - **Practical Application Skills:**
+    - Comprehensive REST API Construction: Successfully built a full-fledged REST API from scratch using Express.js and MongoDB.
+
+    - Real-World Project Engagement: Engaged in practical exercises involving the development of webpages, implementation of site fragments, and the creation of modern websites with good design, contemporary structure, and mobile support.
+
+    - Creation of Data-Driven Web Applications: Developed the ability to create easy and fast data-driven web applications using Node.js, Express.js, and MongoDB.
+
+    - In-Depth Understanding of MongoDB and Mongoose: Explored one of the most popular non-relational databases, MongoDB, along with the Mongoose library for effective data retrieval.
+
+This course equipped me with practical skills essential for server-side JavaScript development, emphasizing real-world applications and modern web server practices.
+  **Feel free to explore the content, code examples, and projects in this repository. If you have any questions or would like to discuss anything further, don't hesitate to reach out!**
   ## React
   
 
