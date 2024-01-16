@@ -1,0 +1,20 @@
+{
+  "name": "softuni",
+  "version": "1.0.0",
+  "description": "Welcome to my SoftUni homework repository! This repository contains the assignments and projects I've completed during my time at SoftUni. It showcases my learning journey and practical coding skills.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iliyanh/SoftUni.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iliyanh/SoftUni/issues"
+  },
+  "homepage": "https://github.com/iliyanh/SoftUni#readme"
+}
