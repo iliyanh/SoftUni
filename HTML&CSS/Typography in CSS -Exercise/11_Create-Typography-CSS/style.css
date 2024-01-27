@@ -1,0 +1,61 @@
+body {
+    font-family: Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+}
+h1,h2,h3,h4,h5,h6 {
+    font-family: Georgia, sans-serif;
+    font-weight: 400;
+}
+blockquote {
+    border-left: 4px solid rgb(221,221,221);
+    font-style: italic;
+    font-weight: 500;
+}
+blockquote p {
+    margin-left: 25px;
+}
+blockquote .author {
+    text-align: right;
+
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th{
+    background-color: rgb(221,221,221);
+    text-align: left;
+}
+td,th {
+    border: 1px solid rgb(221,221,221);
+}
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+
+
+/* · Create an "index.html" and "style.css" files
+
+· Change the document title to "Typography"
+
+· Use Helvetica, sans-serif font-family for the document
+
+o Make the font-size 16px
+
+o Change the line-height to 1.5
+
+· Use Georgia, serif font-family for the headings
+
+· Use headings from h1 to h6
+
+· Create a HTML table and style it
+
+· Use blockquote tag
+
+o Style its left border with rgb(221,221,221) color
+
+o Style its font to italic
+
+· Use hr tag for the horizontal lines */
