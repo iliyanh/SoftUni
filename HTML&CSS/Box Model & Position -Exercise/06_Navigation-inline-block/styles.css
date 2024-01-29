@@ -1,0 +1,31 @@
+body {
+    font: 16px/1.5 Helvetica, sans-serif;
+    padding: 4em;
+}
+
+header nav li{
+    display: inline;
+}
+header nav,
+header>h1{
+    display: inline-block;
+}
+a {
+    text-decoration: none;
+    color: rgb(123, 188, 110);
+    padding: 10px;
+}
+
+body>h1 {
+    font-weight: 400;
+}
+hr{
+    border: 1px solid black;
+}
+
+/* •	Change the document title to "Navigation Inline Block"
+•	Divide your content into header and main tags
+•	Add font to the document: Helvetica, sans-serif
+•	Create a navigation bar 
+o	Add four list items in nav tag with a tags inside 
+o	Add display: inline-block; style for each item in the nav */
