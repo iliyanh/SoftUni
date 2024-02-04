@@ -1,0 +1,47 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: rgb(238, 238, 238);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font: 1em/1.2 Georgia, serif;
+}
+.card {
+    margin: 5em;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgb(0 0 0 / 0.5);
+    border: 1px solid black;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+img {
+    max-width: 500px;
+    height: auto;
+}
+.button {
+    padding: 5px 10px 5px 10px;
+    background-color: rgb(0, 153, 0);
+    color: white;
+    text-decoration: none;
+    float: right;
+}
+.description {
+    margin: 1em;
+    padding: 10px;
+
+}
+div>h3 {
+    margin-bottom: 1em;
+}
+p {
+    width: 400px;
+    margin-bottom: 1em;
+}
