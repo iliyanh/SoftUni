@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    margin: 5rem;
+    padding: 3rem;
+}
+
+header{
+    border-bottom: 2px solid rgb(0, 0, 0);
+    display: flex;
+    padding-bottom: 2em;
+}
+nav{
+    margin-left: auto;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+}
+li{
+    margin-left: 1em;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(0, 153, 0);
+}
+h2{
+    margin-top: 1em;
+}
+p{
+    margin-top: 1em;
+}
