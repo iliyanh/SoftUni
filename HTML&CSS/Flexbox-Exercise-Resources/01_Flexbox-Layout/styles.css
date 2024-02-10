@@ -1,0 +1,43 @@
+body {
+    background-color: #ccc;
+}
+header{
+    background-color: white;
+    height: 100px;
+    margin: 2em 2em 0em 2em;
+    padding: 1em;
+    width: auto;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+}
+main {
+    background-color: white;
+    margin: 1em 1em 0em 2em;
+    flex: 2;
+}
+aside {
+    flex: 1;
+    background-color: white;
+    margin: 1em 2em 0em 0em;
+}
+footer {
+    background-color: white;
+    height: 100px;
+    width: auto;
+    margin: 1em 2em 0em 2em;
+    padding: 1em;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+
+}
+div{
+    display: flex;
+}
+main, aside {
+    height: 200px;
+    width: auto;
+    padding: 1em;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+
+}
