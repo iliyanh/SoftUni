@@ -1,0 +1,23 @@
+header nav li {
+    display: inline;
+}
+body>header{
+    margin-top: 3em;
+}
+header nav,
+header>h1 {
+    display: inline-block;
+}
+a {
+    margin-top: 1em;
+    text-decoration: none;
+    color: rgb(0, 102, 0);
+    padding: 10px;
+}
+header nav {
+    float: right;
+}
+hr {
+    margin-top: 1em;
+    border: 1px solid black;
+}

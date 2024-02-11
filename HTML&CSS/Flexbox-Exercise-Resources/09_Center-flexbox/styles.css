@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    background-color: #ccc;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+div{
+    background-color: white;
+    width: 350px;
+    padding-left: 1em;
+    padding-bottom: 1em;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
