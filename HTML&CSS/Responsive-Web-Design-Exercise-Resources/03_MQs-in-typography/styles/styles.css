@@ -1,0 +1,95 @@
+@import url(header.css);
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font: 1em/1.2 Georgia, serif;
+    background-color: rgb(238, 238, 238);
+    width: 70%;
+    margin: 0 auto;
+}
+main,
+aside{
+    display: inline-block;
+}
+article header h1 {
+    font-weight: 400;
+    margin-top: 1em;
+}
+article{
+    font-weight: 400;
+    width: 40em;
+}
+article p {
+    margin: 1em 0em;
+}
+
+aside{
+    position: absolute;
+    margin-left: 3em;
+    margin-top: 2em;
+}
+
+aside ul{
+   margin: 1em;
+}
+img {
+    border: 3px solid #333;
+    padding: 5px;
+    background-color: #fff;
+    box-shadow: 0 0 0.5em 0 rgb(0, 0, 0.3);
+}
+.align-left {
+    float: left;
+    margin: 0 1em 1em 0;
+}
+.align-right {
+    float: right;
+    margin: 0 0 1em 1em;
+}
+blockquote {
+    opacity: 0.7;
+    font-style: italic;
+    max-width: 50%;
+    float: right;
+    margin-left: 1em;
+    margin-bottom: 1em;
+    padding-left: 1em;
+    border-left: 1px solid #ccc;
+}
+.author {
+    text-align: right;
+}
+@media (max-width: 500px){
+    body{
+        font-size: 12px;
+    }
+}
+@media (min-width: 500px){
+    body{
+        font-size: 14px;
+    }
+}
+@media (min-width: 600px){
+    body{
+        font-size: 16px;
+    }
+}
+@media (min-width: 800px){
+    body{
+        font-size: 18px;
+    }
+}
+@media (min-width: 1300px){
+    body{
+        font-size: 21px;
+    }
+}
+@media (min-width: 1800px){
+    body{
+        font-size: 23px;
+    }
+}
