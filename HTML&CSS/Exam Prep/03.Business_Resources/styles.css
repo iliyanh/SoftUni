@@ -7,10 +7,13 @@
     box-sizing: border-box;
 }
 body{
-    background-image: url(images/background.jpg);
+    background-image: url();
     background-repeat: no-repeat;
-    background-size: 100%;
-    background-position: top center;
+    background-size: cover;
+    /* background-position: top center; */
+    background-position: 50% -2px;
+    min-height: 750px;
+    position: relative;
 }
 .container{
     width: 1400px;
