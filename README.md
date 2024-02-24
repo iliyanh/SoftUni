@@ -15,7 +15,7 @@ Welcome to my SoftUni homework repository! This repository contains the assignme
     - [JS Back-End](#js-back-end)
     - [React](#react)
   - [JavaScript FrontEnd](#javascript-frontend)
-    - [HTML & CSS](#html&css)
+    - [HTML & CSS](#html--css)
     - [Angular](#angular)
 - [Technologies Used](#technologies-used)
 - [Contact](#contact)
