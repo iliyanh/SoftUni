@@ -15,6 +15,8 @@ Welcome to my SoftUni homework repository! This repository contains the assignme
     - [JS Back-End](#js-back-end)
     - [React](#react)
   - [JavaScript FrontEnd](#javascript-frontend)
+    - [HTML & CSS](#html-&-css)
+    - [Angular](#angular)
 - [Technologies Used](#technologies-used)
 - [Contact](#contact)
 
@@ -209,27 +211,94 @@ Throughout the intensive "Server-Side JavaScript Development with Node.js and Ex
 
 This course equipped me with practical skills essential for server-side JavaScript development, emphasizing real-world applications and modern web server practices.
   **Feel free to explore the content, code examples, and projects in this repository. If you have any questions or would like to discuss anything further, don't hesitate to reach out!**
-  ## React
   
+  ## React
+  - **Overview**
+    
+The "ReactJS" course provided me with knowledge and practical skills for developing Single Page Applications (SPA) using the ReactJS technology. ReactJS is one of the most popular and efficient libraries for building client interfaces, developed and maintained by Facebook and Instagram
+
+  - **Key Learnings**
+    
+    - Understanding of JSX syntax and its integration with React components.
+
+    - Proficiency in handling requests and Promises, component-based application structure, routing, and form validation.
+
+    - Various techniques for styling components, including the use of CSS Modules and Styled Components.
+
+    - Exploration of new concepts in React, such as React Hooks and Context API.
+
+  - **Practical Skills**
+    
+    - Ability to build comprehensive SPA applications using ReactJS, including form handling, data binding, routing, user authentication, and authorization.
+    
+    - Experience in writing Unit Tests using JEST to ensure the reliability and robustness of React components.
+
+The "ReactJS" course equipped me with essential skills and knowledge to develop modern Single Page Applications using ReactJS. I gained a deep understanding of React concepts and best practices, enabling me to create efficient and dynamic user interfaces.
+
 
 # JavaScript FrontEnd
 
-- **Lesson 1: Introduction to FrontEnd Frameworks**
-  - Assignment: Basic React Component
-- **Lesson 2: State Management with Redux**
-  - Assignment: Redux State Management Task
-- ... (continue with other lessons)
+  ## HTML & CSS
+  
+  - **Overview**
+  
+During the "HTML & CSS" course, I gained fundamental knowledge of web technologies, focusing specifically on HTML5 and CSS3.
 
-- 
+  - **Key Learnings**
+    
+    - Understanding of web development basics, including web browsers and development tools for HTML/CSS/DOM.
+      
+    - Proficiency in using HTML to describe web content, covering topics such as basic tags, paragraphs, lists, tables, forms, controls, and semantic HTML.
+      
+    - Mastery of CSS for styling web content, including knowledge of basic selectors, styles, classes, presentation rules, positioning, and layout.
+      
+    - Familiarity with the latest updates and features of HTML5 and CSS3 standards.
+      
+  - **Practical Skills**
+    
+      - Ability to apply HTML and CSS knowledge in real-world scenarios through practical exercises.
+        
+      - Experience in creating web pages, implementing website fragments, and building complete modern websites with good visual design, contemporary structure, and mobile support.
+
+The "HTML & CSS" course provided me with a solid foundation in web development, equipping me with essential skills and knowledge to create visually appealing and functional web content.
+
+  ## Angular
+  - **Overview**
+
+The "Angular" course provided me with knowledge and practical skills for building client applications (Single Page Applications) using the Angular technology. Angular is a framework developed by Google and is currently one of the most popular frameworks.
+
+  - **Key Learnings**
+   
+    - Understanding of TypeScript, including basic syntax and concepts, and its advantages over JavaScript for web and mobile development.
+
+    - Familiarity with Single Page Applications (SPA) and architectural patterns for SPA applications.
+
+    - Knowledge of components, directives, and their implementation in Angular.
+
+    - Study of views and data visualization templates, models, data binding, working with multiple views, observables, routing, data retrieval from REST services, and dependency injection (DI).
+
+  - **Practical Skills**
+
+    - Ability to build SPA applications using Angular, including creating components, directives, and implementing views and data visualization templates.
+
+    - Proficiency in data binding, routing, handling observables, and dependency injection in Angular applications.
+
+    - Experience in integrating with REST services and fetching data from them.
+
+The "Angular" course equipped me with essential skills and knowledge to develop modern client applications using Angular. I gained a deep understanding of Angular concepts and best practices, which will be invaluable in my future projects.
+ 
 # Technologies Used
 
-- Programming Languages: JavaScript
+- Programming Languages: JavaScript (including TypeScript)
 - Web Technologies: HTML, CSS
+- Frontend Frameworks: React, Angular
+- Backend Framework: Express.js
+- Templating Engine: Handlebars
+- Database: MongoDB
+- Object Data Modeling Library: Mongoose (for MongoDB)
 - Version Control: GitHub
+
 
 # Contact
 Feel free to reach out if you have any questions or opportunities! You can contact me at ihadzhiev1@gmail.com
-
-##Update
-
 
