@@ -300,5 +300,5 @@ The "Angular" course equipped me with essential skills and knowledge to develop 
 
 
 # Contact
-Feel free to reach out if you have any questions or opportunities! You can contact me at ihadzhiev1@gmail.com
+Feel free to reach out if you have any questions or opportunities! You can contact me at ihadzhiev1@gmail.com .
 
